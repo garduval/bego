@@ -61,6 +61,14 @@ http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/119318.m3u
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/119319.m3u
 #EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="Movistar Plus+ 2 SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Movistar%20Plus%2B%202.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Movistar Plus+ 2 SD
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/119320.m3u
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="Ellas Vamos por M+ SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Ellas Vamos por M+ SD
+http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116074.m3u
+#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="Ellas Vamos por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Ellas Vamos por M+ 4K
+http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116072.m3u
+#EXTINF:-1 tvg-id="Betis TV" tvg-name="Betis FC FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD",Betis FC FHD
+http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116257.m3u
+#EXTINF:-1 tvg-id="Sevilla FC Televisión" tvg-name="Sevilla FC FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sevilla%20FC%20Televisi%C3%B3n.png" group-title="ESPAÑA | DEPORTES 4K-HD",Sevilla FC FHD
+http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116258.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Finetwork Dazn 1 HD (SOLO EVENTOS)" tvg-logo="" group-title="DAZN | LIGA FEMENINA",Finetwork Dazn 1 HD (SOLO EVENTOS)
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/113818.m3u
 #EXTINF:-1 tvg-id="" tvg-name="Finetwork Dazn 2 HD (SOLO EVENTOS)" tvg-logo="" group-title="DAZN | LIGA FEMENINA",Finetwork Dazn 2 HD (SOLO EVENTOS)
@@ -631,10 +639,6 @@ http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/210423.m3u
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/210424.m3u
 #EXTINF:-1 tvg-id="M+ Frank Capra" tvg-name="M+ ANIME SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Anime.png" group-title="ESPAÑA | MOVISTAR 4K-HD",M+ ANIME SD
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/210425.m3u
-#EXTINF:-1 tvg-id="M+ Navidad" tvg-name="LOS 90 POR M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png" group-title="ESPAÑA | MOVISTAR 4K-HD",LOS 90 POR M+ 4K
-http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/118930.m3u
-#EXTINF:-1 tvg-id="M+ Navidad" tvg-name="LOS 90 POR M+ SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Navidad.png" group-title="ESPAÑA | MOVISTAR 4K-HD",LOS 90 POR M+ SD
-http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/118932.m3u
 #EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Documentales por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="ESPAÑA | DOCUMENTALES",Documentales por M+ 4K
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/118861.m3u
 #EXTINF:-1 tvg-id="M+ Documentales HD" tvg-name="Documentales por M+ HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Documentales.png" group-title="ESPAÑA | DOCUMENTALES",Documentales por M+ HD
@@ -663,20 +667,10 @@ http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/115961.m3u
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/115963.m3u
 #EXTINF:-1 tvg-id="Historia" tvg-name="Historia SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Historia.png" group-title="ESPAÑA | DOCUMENTALES",Historia SD
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/115965.m3u
-#EXTINF:-1 tvg-id="" tvg-name="MASCOTAS TV" tvg-logo="" group-title="ESPAÑA | DOCUMENTALES",MASCOTAS TV
-http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/209442.m3u
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="Ellas Vamos por M+ 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Ellas Vamos por M+ 4K
-http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116072.m3u
-#EXTINF:-1 tvg-id="M+ Ellas Vamos HD" tvg-name="Ellas Vamos por M+ SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Ellas%20Vamos.png" group-title="ESPAÑA | MOVISTAR 4K-HD",Ellas Vamos por M+ SD
-http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116074.m3u
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER BROS 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="ESPAÑA | MOVISTAR 4K-HD",WARNER BROS 4K
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116075.m3u
 #EXTINF:-1 tvg-id="Warner TV HD" tvg-name="WARNER BROS SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Warner%20TV.png" group-title="ESPAÑA | MOVISTAR 4K-HD",WARNER BROS SD
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116077.m3u
-#EXTINF:-1 tvg-id="Betis TV" tvg-name="Betis FC FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD",Betis FC FHD
-http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116257.m3u
-#EXTINF:-1 tvg-id="Sevilla FC Televisión" tvg-name="Sevilla FC FHD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sevilla%20FC%20Televisi%C3%B3n.png" group-title="ESPAÑA | DEPORTES 4K-HD",Sevilla FC FHD
-http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116258.m3u
 #EXTINF:-1 tvg-id="UBEAT" tvg-name="Ubeat 4K" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="ESPAÑA | OCIO",Ubeat 4K
 http://dev100.codetv.ovh:80/live/Antoniojimenez11009/991743838929/116220.m3u
 #EXTINF:-1 tvg-id="UBEAT" tvg-name="Ubeat HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="ESPAÑA | OCIO",Ubeat HD
