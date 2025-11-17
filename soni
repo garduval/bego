@@ -279,14 +279,14 @@ http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/764
 http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/768
 #EXTINF:-1 tvg-id="ETB 1" tvg-name="ES: ETB 1" tvg-logo="https://docdog.top/logo/countries/spain/etb1-es.png" group-title="ES | OTHER VIP",ES: ETB 1
 http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/769
-#EXTINF:-1 tvg-id="ES: Directes-tv-es.3catdirectes.cat"tvg-name="ES: Directes-tv-es.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="ES | TOP CANALES VIP",ES: Directes tv 3cat
-https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=1080
 #EXTINF:-1 tvg-id="A Punt" tvg-name="ES: À PUNT" tvg-logo="https://docdog.top/logo/countries/spain/A_Punt.png" group-title="ES | OTHER VIP",ES: À PUNT
 http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/777
 #EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES: AMC BREAK" tvg-logo="https://docdog.top/logo/countries/spain/movistar/AMC_BREAK.png" group-title="ES | CULTURA VIP",ES: AMC BREAK
 http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/778
 #EXTINF:-1 tvg-id="Esport3.es" tvg-name="ES: ESPORT 3 CAT" tvg-logo="https://docdog.top/logo/countries/spain/Esport_3.png" group-title="ES | OTHER VIP",ES: ESPORT 3 CAT
 http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/784
+#EXTINF:-1 tvg-id="ES: Directes-tv-es.3catdirectes.cat"tvg-name="ES: Directes-tv-es.3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Esport3.svg/2560px-Esport3.svg.png" group-title="ES | TOP CANALES VIP",ES: Directes tv 3cat
+https://directes-tv-es.3catdirectes.cat/live-content/esport3-hls/master.m3u8?maxres=1080
 #EXTINF:-1 tvg-id="" tvg-name="ES: CASTILLA LA MANCHA" tvg-logo="https://docdog.top/logo/countries/spain/movistar/cmm.png" group-title="ES | TOP CANALES VIP",ES: CASTILLA LA MANCHA
 http://vipipjpapi.top:8080/VIP013591733396006274/58209180da36/132291
 #EXTINF:-1 tvg-id="" tvg-name="ES: M+ ESTRENOS" tvg-logo="https://docdog.top/logo/countries/spain/movistar/ESTRENOS.png" group-title="ES | CINE & SERIES VIP",ES: M+ ESTRENOS
